@@ -1,5 +1,7 @@
 # API To Register Devices
 
+This README information is also displayed in the url path `/api`
+
 ## Usage
 
 Responses will be in the format
